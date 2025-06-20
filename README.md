@@ -5,7 +5,7 @@ This project is a dynamic Power BI dashboard built to analyze and visualize mobi
 ## Tools & Technologies Used
 Microsoft Power BI
 Power Query
-DAX (Data Analysis Expressions)
+DAX (Data Analysis Expressions),
 Excel (for initial data handling)
 
 ## Key Features
@@ -30,5 +30,5 @@ Explore different visuals and use slicers (e.g., by month) to filter data
 Analyze trends, top-performing brands, and insights by geography or payment methods
 
 ## Dataset
-
+- <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">Dataset</a>
 
