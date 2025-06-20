@@ -24,6 +24,9 @@ Practiced building interactive visuals and slicers
 Applied DAX formulas to calculate dynamic KPIs
 Improved understanding of data storytelling and business intelligence reporting
 
+## Dashboard
+- <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Power%20BI%20project.png">Dataset</a>
+
 ## How to Use
 Open the .pbix file in Microsoft Power BI Desktop
 Explore different visuals and use slicers (e.g., by month) to filter data
