@@ -25,7 +25,9 @@ Applied DAX formulas to calculate dynamic KPIs
 Improved understanding of data storytelling and business intelligence reporting
 
 ## Dashboard
-- <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Power%20BI%20project.png">Dataset</a>
+- <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Power%20BI%20project.png">Dashboard</a>
+![Power BI project](https://github.com/user-attachments/assets/15ebfa8f-48dc-4f73-8f2d-0cd3eb410d4b)
+
 
 ## How to Use
 Open the .pbix file in Microsoft Power BI Desktop
