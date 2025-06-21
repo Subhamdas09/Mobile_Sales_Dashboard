@@ -28,6 +28,7 @@ Improved understanding of data storytelling and business intelligence reporting
 - <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Power%20BI%20project.png">Dashboard</a>
 
 ## How to Use
+- <a href="https://github.com/Subhamdas09/Mobile_Sales_Dashboard/blob/main/Mobile_Sales_Dashboard.pbix">Interactive Dashboard</a>
 Open the .pbix file in Microsoft Power BI Desktop
 Explore different visuals and use slicers (e.g., by month) to filter data
 Analyze trends, top-performing brands, and insights by geography or payment methods
